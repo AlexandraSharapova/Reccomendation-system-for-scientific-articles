@@ -1,1 +1,1 @@
-# Reccomendation-system-for-scientific-articles
+# Recommendation-system-for-scientific-articles
